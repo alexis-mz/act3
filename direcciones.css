@@ -1,0 +1,14 @@
+body {
+    font-size: 2em;
+}
+
+a {
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/228448/extrenal-link-symbol.png)no-repeat center right / 2rem;
+    padding-right: 2.2rem;
+}
+
+[href^="/"],
+[href^="https://www.youtube.com/c/luisitocomunica"] {
+    color: red;
+    background: none;
+}
